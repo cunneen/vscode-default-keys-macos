@@ -24,7 +24,6 @@
     "keyboard",
     "binding"
   ],
-  "activationEvents": [],
   "contributes": {
     "keybindings": [
       {
