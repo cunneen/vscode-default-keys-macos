@@ -34,7 +34,7 @@ search for "MacOS Default Keybindings", click on it, then
 click on Install.  The new bindings should be active immediately.
 
 Alternatively, install it from the
-[Marketplace page](https://marketplace.visualstudio.com/items?itemName=cunneen.default-keys-macos),
+[Marketplace page](https://marketplace.visualstudio.com/items?itemName=MikeCunneen.default-keys-macos),
 or download the VSIX file from the
 [Github releases page](https://github.com/cunneen/vscode-default-keys-macos/releases)
 and then use "Install from VSIX..." menu option from the "..." menu in
