@@ -11,7 +11,7 @@
   "license": "MIT",
   "publisher": "Mike Cunneen",
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "^1.78.0"
   },
   "categories": [
     "Keymaps"
