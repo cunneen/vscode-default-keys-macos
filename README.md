@@ -1,7 +1,7 @@
 This extension provides the default key bindings for MacOS
 on any platform.
 
-\!\[mac keyboard\]\(assets/keyboard.jpg\)
+![mac keyboard](./assets/keyboard.jpg)
 
 Currently, these are the defaults for VSCode 1.78.2.
 
