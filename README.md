@@ -1,5 +1,7 @@
 This extension provides the default key bindings for MacOS
-on any platform.
+for Visual Studio Code on any platform.
+
+Based on the excellent instructions at [Scott McPeak's windows key bindings](https://github.com/smcpeak/vscode-default-keys-windows).
 
 ![mac keyboard](./assets/keyboard.jpg)
 
